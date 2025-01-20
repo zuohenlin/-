@@ -1,3 +1,4 @@
+# [Switch to the Chinese version](https://github.com/zuohenlin/document_summarizer/blob/main/Problems%20and%20Solutions_CH.md)
 # 一.At first I wanted to call OllamaAPI directly for interaction, but due to an unknown error I was unable to use the requests module to send Http requests to OllamaAPI
 ![Using the requests library](https://gitee.com/zuohenlin/picture/raw/master/img/20250120145551527.png)
 ![Http request](https://gitee.com/zuohenlin/picture/raw/master/img/20250120145639633.png)
