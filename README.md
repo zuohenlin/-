@@ -1,3 +1,4 @@
+# [Switch to the Chinese version](https://github.com/zuohenlin/document_summarizer/blob/main/README_CH.md)
 # Implementing Document Summarization with Ollama + Qwen + Python (TXT + DOC + PDF)
 ## 一.Deploying a Local Large Language Model with Ollama
 >### 1.Introduction to Ollama
