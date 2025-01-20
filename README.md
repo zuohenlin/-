@@ -70,6 +70,10 @@ Available Commands:
 Use """ to begin a multi-line message.
 ```
 ## 二.使用Python实现文档摘要
+### 所需依赖库安装
+``` python
+pip install python-docx PyPDF2 ollama
+```
 以下是使用Python和Ollama实现文档摘要的示例代码：
 ```python
 import os
